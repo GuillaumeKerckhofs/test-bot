@@ -1,3 +1,3 @@
 # test-bot
 
-test
+test delete branch
